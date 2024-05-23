@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+    
+}
+.list-group{
+    font-size: medium;
+    text-align: left;
+}
+
+
+#columnas{
+    column-count:2;
+    column-gap:40px;
+    column-rule:4px dotted rgb(255, 255, 255);
+ }
